@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @rinduregita
 - 👀 I’m interested in  programme  PHP
 - 🌱 I’m currently learning  python
-- 💞️ I’m looking to collaborate on  web develoer
+- 💞️ I’m looking to collaborate on  web developer
+- 👧 I can design and Digital Marketing
 - 📫 How to reach me  via email rinduregita@gmail.com
 
 <!---
